@@ -1,8 +1,9 @@
-# 💫 About Me:
-🚀 Passionate about turning ideas into real-world tech solutions.
-🔭 Currently diving deep into the MERN stack to build full-stack applications.
-🤝 Actively looking to collaborate on AI-based projects — from concept to deployment.
-🌩️ Exploring AWS and always open to guidance or resources to boost my cloud skills.
+### 💫 About Me
+
+🚀 Passionate about turning ideas into real-world tech solutions.  
+🔭 Currently diving deep into the **MERN stack** to build full-stack applications.  
+🤝 Actively looking to collaborate on **AI-based projects** — from concept to deployment.  
+🌩️ Exploring **AWS** and always open to guidance or resources to boost my cloud skills.  
 📫 Let’s connect and build something impactful together!
 
 
