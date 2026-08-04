@@ -89,17 +89,20 @@ I'm a full-stack developer who enjoys turning ideas into real, production-ready 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavc13&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pranavc13&show_icons=true&hide_border=true&count_private=false&include_all_commits=false&title_color=EF4444&icon_color=EF4444&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pranavc13&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pranavc13&hide_border=true&background=0D1117&border=0D1117&stroke=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavc13&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranavc13&layout=compact&hide_border=true&title_color=EF4444&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pranavc13&icon=0&color=0" alt="Visitor Count" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavc13&bg_color=0D1117&color=C9D1D9&line=EF4444&point=FFFFFF&area=true&area_color=EF4444&title_color=EF4444&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
+  </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
