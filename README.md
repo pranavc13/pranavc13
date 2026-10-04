@@ -1,7 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="assets/spotify-banner.jpg" alt="Now Playing" width="100%" />
-</p>
+
 
 <h1 align="center">Pranav Chaturvedi</h1>
 <h3 align="center">Full Stack Developer</h3>
